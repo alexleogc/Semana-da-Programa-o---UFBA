@@ -1,1 +1,3 @@
-# Semana-da-Programa-o---UFBA
+# Semana da Programação - UFBA
+
+Notas de aula
